@@ -6,5 +6,6 @@ CFLAG:=-g -O0
 ecs: main.o
 main.o: main.c
 	$(XCC) main.c $(CFLAG) -o ecs
-clean: rm main.o ecs
+clean: 
+	rm ecs
 
