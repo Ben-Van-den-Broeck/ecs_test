@@ -5,6 +5,8 @@ This way everyone can simply add their contribution and is it easier to follow t
 
 CHANGES:
 
-# File added on 8/3/2017
+# File added on 9/3/2017
+	Ben Van den Broeck
+# Extra test on 9/3/2017
 	Ben Van den Broeck
 
